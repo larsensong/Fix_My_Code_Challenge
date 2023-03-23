@@ -1,7 +1,7 @@
 # :shell: Fix My Code :shell:
 
 In this project we were given broken code and were expected to fix it. To view the code in it's broken state see it in the respective directories readme.
-The tasks help you understand
+The tasks help you understand basic concept of debugging
 
 ## :running: Getting Started
 
