@@ -14,3 +14,5 @@ Sometime you will know the language, sometime not.
 ## :warning: Prerequisites
 
 * Must have `git` installed
+
+* Must have repository cloned
