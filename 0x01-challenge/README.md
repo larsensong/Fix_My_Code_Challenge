@@ -16,3 +16,5 @@ Sometime you will know the language, sometime not.
 * Must have `git` installed
 
 * Must have repository cloned
+
+* Must have `python3` installed
