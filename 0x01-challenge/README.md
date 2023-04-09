@@ -6,3 +6,5 @@ Fix my code is a new type of project, where we’ll jump into an existing code b
 Sometime you will know the language, sometime not.
 
 ## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
