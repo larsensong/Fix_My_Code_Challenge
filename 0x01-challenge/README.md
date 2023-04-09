@@ -12,3 +12,5 @@ Sometime you will know the language, sometime not.
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
