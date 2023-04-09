@@ -18,3 +18,7 @@ Sometime you will know the language, sometime not.
 * Must have repository cloned
 
 * Must have `python3` installed
+
+```
+$ sudo apt-get install git
+```
