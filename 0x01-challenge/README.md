@@ -4,3 +4,5 @@ In this project we were given broken code and were expected to fix it. To view t
 The tasks help you understand basic concept of debugging. The act of debugging  is very crucial in programming. It help in understanding the workability of programms  and being able to fix bugs.
 Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
 Sometime you will know the language, sometime not.
+
+## :running: Getting Started
