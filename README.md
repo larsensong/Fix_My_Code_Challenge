@@ -5,7 +5,7 @@ The tasks help you understand basic concept of debugging. The act of debugging  
 
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
