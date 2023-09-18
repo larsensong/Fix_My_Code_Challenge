@@ -13,7 +13,7 @@
 
 * Must have `git` installed
 
-* Must have repository cloned
+* Must have repository cloned.
 
 * Must have `python3` installed.
 
