@@ -15,7 +15,7 @@
 
 * Must have repository cloned
 
-* Must have `python3` installed
+* Must have `python3` installed.
 
 ```
 $ sudo apt-get install git
