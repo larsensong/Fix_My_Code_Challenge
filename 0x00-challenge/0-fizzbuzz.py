@@ -1,5 +1,6 @@
 #!/usr/bin/python3.
 """ FizzBuzz Challenge.
+it's not only a challenge it's just.
 """
 import sys
 
